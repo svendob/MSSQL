@@ -1,0 +1,1 @@
+EXEC sys.sp_spaceused @objname = N'tCSPSvangerskap';

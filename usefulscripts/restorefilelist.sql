@@ -1,0 +1,2 @@
+RESTORE FILELISTONLY 
+FROM DISK = 'c:\bu\adw.bak';
